@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi there, I'm Mohammad Owais 👋
 
 I am a detail-oriented **Data Analyst** passionate about transforming raw data into actionable business insights. I specialize in extracting, analyzing, and visualizing data to help teams make informed decisions. I'm always eager to learn new tools and currently exploring the intersection of traditional data analytics and Generative AI.
